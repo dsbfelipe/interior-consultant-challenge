@@ -51,22 +51,6 @@ This challenge was pretty fun to accomplish as it was the first hamburger menu i
 - Plain CSS
 - HTML
 
-<details>
-<summary>Mobile version screenshot</summary>
-<br>
-<div align="center">
-
-  <img width="40%" src="https://raw.githubusercontent.com/dsbfelipe/interior-consultant-challenge/main/screenshots/screenshot-375.png
-  " />
-&nbsp;
-  <img width="40%" src="https://raw.githubusercontent.com/dsbfelipe/interior-consultant-challenge/main/screenshots/screenshot-menu.png
-  " />
-
-  <p align="center">Mobile screenshots</p>
-</div>
-</details>
-
-
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
