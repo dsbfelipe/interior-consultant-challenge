@@ -56,10 +56,13 @@ This challenge was pretty fun to accomplish as it was the first hamburger menu i
 <br>
 <div>
 
-  <img width="49%" src="https://github.com/dsbfelipe/interior-consultant-challenge/screenshots/screenshot-375.png" />
+  <img width="49%" src="https://raw.githubusercontent.com/dsbfelipe/interior-consultant-challenge/main/screenshots/screenshot-375.png
+  " />
 &nbsp;
-  <img width="49%" src="https://github.com/dsbfelipe/interior-consultant-challenge/screenshots/screenshot-menu.png" />
+  <img width="49%" src="https://raw.githubusercontent.com/dsbfelipe/interior-consultant-challenge/main/screenshots/screenshot-menu.png
+  " />
 
+  <p align="center">Mobile screenshots</p>
 </div>
 </details>
 
