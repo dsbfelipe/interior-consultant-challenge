@@ -54,12 +54,12 @@ This challenge was pretty fun to accomplish as it was the first hamburger menu i
 <details>
 <summary>Mobile version screenshot</summary>
 <br>
-<div>
+<div align="center">
 
-  <img width="49%" src="https://raw.githubusercontent.com/dsbfelipe/interior-consultant-challenge/main/screenshots/screenshot-375.png
+  <img width="40%" src="https://raw.githubusercontent.com/dsbfelipe/interior-consultant-challenge/main/screenshots/screenshot-375.png
   " />
 &nbsp;
-  <img width="49%" src="https://raw.githubusercontent.com/dsbfelipe/interior-consultant-challenge/main/screenshots/screenshot-menu.png
+  <img width="40%" src="https://raw.githubusercontent.com/dsbfelipe/interior-consultant-challenge/main/screenshots/screenshot-menu.png
   " />
 
   <p align="center">Mobile screenshots</p>
