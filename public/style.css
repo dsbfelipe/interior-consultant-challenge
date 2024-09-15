@@ -6,6 +6,10 @@
   display: none;
 }
 
+.mobile {
+  display: flex;
+}
+
 * {
   margin: 0;
   padding: 0;
